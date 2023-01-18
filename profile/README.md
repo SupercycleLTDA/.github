@@ -2,7 +2,6 @@
 ![supercycle](https://www.supercycle.com.br/logo192.png)
 
 # Hi there! 👋
-<hr>
 
 You have found your way to the Supercycle Repositories 🤓 Welcome!
 
@@ -10,9 +9,8 @@ This is the central entry point into anything there is to know or to do for the 
 
 The list of resources you find here will get you slingshot into the Supercycle Megaverse in no time. 
 
-#### Enjoy!
-#### The Supercycle Team
-
+**Enjoy!**  <br>
+*The Supercycle Team*
 
 
 ## Iteration
