@@ -24,7 +24,7 @@ Como queremos que todos vocês expressem o que é mais útil para vocês como Co
 lugar central onde reunimos todas as ideias e pontos de vista, para que possamos discuti-los e entender o que
 pode fazer para melhorar o software.
 
-### Eu tenho uma grande ideia! 💡
+### Quando você tem uma ótima ideia 💡
 
 Para poder entender quais ideias são as boas, precisamos olhar para todas elas.
 
@@ -46,7 +46,7 @@ tanto para treinadores quanto para pilotos, pode escrevê-la aqui
 👉🏼[Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
 
 
-### Há algo que eu não sei 🙋🏽
+### Quando há algo que você não sabe 🙋🏽
 
 É muito importante que tenhamos o hábito de perguntar quando não sabemos ou não entendemos algo.
 
@@ -60,9 +60,21 @@ Se você tiver uma pergunta, pode iniciar uma Q&A (Question and Answer - Pergunt
 
 Portanto, mantenha essas perguntas chegando! 
 
-### Eu quero saber o que você pensa 🧠
+### Quando você quer saber o que pensamos 🧠
 
-There might be topics for which it is good to know how the whole group thinks about it in a 
+Como em toda democracia bem governada também permitimos a votação de temas.
+
+Às vezes é útil ou necessário entender como o grupo pensa sobre algo ou tomar uma decisão difícil.
+
+
+
+
+https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls
+
+
+#### something
+
+
 
 
 https://github.com/orgs/SupercycleLTDA/discussions
