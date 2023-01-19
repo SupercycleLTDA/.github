@@ -14,15 +14,13 @@ Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
 
 
 
-````
- For the impacient:
- 
- Nova Idea    -> <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas"></a> 
- Nova Q&A     -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a 
- Nova Opinião -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls
+<pre>
+ Para os impacientes:
 
-````
-
+ Nova Idea  👉🏼  <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas">Aqui</a> 
+ Nova Q&A   👉🏼  <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a">Aqui</a> 
+ Nova Poll  👉🏼  <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls">Aqui</a>
+</pre>
 
 ## Junte-se à conversa
 
@@ -32,20 +30,19 @@ pode fazer para melhorar o software.
 
 ### Eu tenho uma grande ideia! 💡
 
-Se você, por exemplo, tiver uma nova ideia para o software, poderá adicioná-la aqui
-👉🏼 [Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
+Se você, por exemplo, tiver uma nova ideia para o software, poderá adicioná-la aqui 👉🏼[Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
 
 Nessas discussões de ideias, teremos uma conversa que nos permitirá obter clareza sobre o que a ideia realiza e por que
 queremos isso.
 
 Quando temos certeza de que faz sentido adicionar a ideia ao software, criamos a chamada "Story" com base na ideia.
 
-(Mais sobre o que é uma "Story" mais adiante)
+Leia mais sobre o que é uma "Story" aqui
+
 
 ### Há algo que eu não sei 🧠
 
-Se você tiver uma pergunta, pode iniciar uma
-Q&A [Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
+Se você tiver uma pergunta, pode iniciar uma Q&A 👉🏼[Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
 
 It is important we
 
