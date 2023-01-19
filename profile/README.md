@@ -26,24 +26,37 @@ pode fazer para melhorar o software.
 
 ### Eu tenho uma grande ideia! 💡
 
-Se você, por exemplo, tiver uma nova ideia para o software, poderá adicioná-la aqui 👉🏼[Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
+Para poder entender quais ideias são as boas, precisamos olhar para todas elas.
 
-Nessas discussões de ideias, teremos uma conversa que nos permitirá obter clareza sobre o que a ideia realiza e por que
-queremos isso.
+Então, por favor, não retenha suas ideias porque você acha que não é bom.
+As melhores mudanças vêm das ideias mais simples! Olha a Supercycle 😎
 
-Quando temos certeza de que faz sentido adicionar a ideia ao software, criamos a chamada "Story" com base na ideia.
+Não excluímos nenhuma ideia e queremos criar um ambiente onde todos se sintam à vontade para partilhá-las.
+Portanto, trate todas as ideias com respeito quando as discutirmos.
+
+Nessas discussões de ideias, teremos uma conversa que nos permitirá obter clareza sobre o que a ideia realiza e por 
+que queremos isso.
+
+Quando temos certeza de que faz sentido adicionar a ideia ao software, criamos a "Story" com base na ideia.
 
 Leia mais sobre o que é uma "Story" [aqui](story.md)
+
+Se você tem uma ideia de como melhorar a vida das pessoas que se juntam ao Supercycle, 
+tanto para treinadores quanto para pilotos, pode escrevê-la aqui 
+👉🏼[Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
+
 
 ### Há algo que eu não sei 🙋🏽
 
 É muito importante que tenhamos o hábito de perguntar quando não sabemos ou não entendemos algo.
 
-Aceitar o que não sabemos e fazer perguntas sobre isso para que possamos aprender é a única maneira de entender por que e como melhorar as coisas.
+Aceitar o que não sabemos e fazer perguntas sobre isso para que possamos aprender é a única maneira de entender 
+por que e como melhorar as coisas.
 
 É uma parte importante da cultura, todas as perguntas são permitidas.
 
-Se você tiver uma pergunta, pode iniciar uma Q&A (Question and Answer - Pergunta e Resposta) 👉🏼[Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
+Se você tiver uma pergunta, pode iniciar uma Q&A (Question and Answer - Pergunta e Resposta) 
+👉🏼[Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
 
 Portanto, mantenha essas perguntas chegando! 
 
