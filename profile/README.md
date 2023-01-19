@@ -17,7 +17,7 @@ Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
 ````
  For the impacient:
  
- Nova Idea    -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas 
+ Nova Idea    -> <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas"></a> 
  Nova Q&A     -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a 
  Nova Opinião -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls
 
