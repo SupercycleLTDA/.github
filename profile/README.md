@@ -1,5 +1,3 @@
-![supercycle](https://www.supercycle.com.br/logo192.png)
-
 # Olá Coach! 👋
 
 Você encontrou o caminho para o coração de onde fazemos o software Supercycle 🎉 Bem-vindo!
@@ -12,14 +10,12 @@ Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
 **Enjoy!**  <br>
 *The Supercycle Team* 💪🏼
 
-
-
 <pre>
  Para os impacientes:
 
- Nova Idea  👉🏼  <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas">Aqui</a> 
- Nova Q&A   👉🏼  <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a">Aqui</a> 
- Nova Poll  👉🏼  <a href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls">Aqui</a>
+ Nova Idea  👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas">Aqui</a> 
+ Nova Q&A   👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a">Aqui</a> 
+ Nova Poll  👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls">Aqui</a>
 </pre>
 
 ## Junte-se à conversa
@@ -37,14 +33,24 @@ queremos isso.
 
 Quando temos certeza de que faz sentido adicionar a ideia ao software, criamos a chamada "Story" com base na ideia.
 
-Leia mais sobre o que é uma "Story" aqui
+Leia mais sobre o que é uma "Story" [aqui](story.md)
 
+### Há algo que eu não sei 🙋🏽
 
-### Há algo que eu não sei 🧠
+É muito importante que tenhamos o hábito de perguntar quando não sabemos ou não entendemos algo.
 
-Se você tiver uma pergunta, pode iniciar uma Q&A 👉🏼[Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
+Aceitar o que não sabemos e fazer perguntas sobre isso para que possamos aprender é a única maneira de entender por que e como melhorar as coisas.
 
-It is important we
+É uma parte importante da cultura, todas as perguntas são permitidas.
+
+Se você tiver uma pergunta, pode iniciar uma Q&A (Question and Answer - Pergunta e Resposta) 👉🏼[Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
+
+Portanto, mantenha essas perguntas chegando! 
+
+### Eu quero saber o que você pensa 🧠
+
+There might be topics for which it is good to know how the whole group thinks about it in a 
+
 
 https://github.com/orgs/SupercycleLTDA/discussions
 
