@@ -1,28 +1,45 @@
 
 ![supercycle](https://www.supercycle.com.br/logo192.png)
 
-# Hi there! 👋
+# Olá Coach! 👋
 
-You have found your way to the Supercycle Repositories 🤓 Welcome!
+Você encontrou o caminho para o coração de onde fazemos o software Supercycle 🎉 Bem-vindo!
 
-This is the central entry point into anything there is to know or to do for the Supercycle software.
+Criamos esta página para você como o ponto de entrada central para tudo o que há para saber ou fazer para o software Supercycle.
 
-The list of resources you find here will get you slingshot into the Supercycle Megaverse in no time. 
+Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
 
 **Enjoy!**  <br>
-*The Supercycle Team*
+*The Supercycle Team* 💪🏼
+
+## Junte-se à conversa
+
+Como queremos que todos vocês expressem o que é mais útil para vocês como Coach na Supercycle, precisamos de um
+lugar central onde reunimos todas as ideias e pontos de vista, para que possamos discuti-los e entender o que
+pode fazer para melhorar o software.
+
+Se você, por exemplo, tiver uma nova ideia para o software, poderá adicioná-la aqui 👉🏼 [Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
+
+In these idea topics we will have the conversation together which allows us to get clarity on what the idea accomplishes and why we want this.
 
 
-## Iteration
+ 
 
-- All coaches are invited to the repositories and the story list
-- Everyone can ask their questions, follow discussions and vote on each story
-- Every week the top voted story (1 story) is taken into development
-- 
+https://github.com/orgs/SupercycleLTDA/discussions
+
+
 
 #### 📚 *Stories*
 
 All stories are gathered and processed in the [Supercycle Project](https://github.com/orgs/SupercycleLTDA/projects/1)
+
+
+## Iteration
+
+- All coaches are invited to the repositories and the Projects' story list
+- Everyone can ask their questions, follow discussions and vote for each story
+- Every week the top voted story (1 story) is taken into development
+- The only reason a story is interrupted during development is when we have an issue blocking the operation (i.o.w the operation stops)
 
 
 #### 💬 *Discussion*
@@ -34,14 +51,9 @@ https://github.com/orgs/SupercycleLTDA/discussions
 
 **These are the Apps we are developing so far:**
 
-### API
-
-[Repo](https://github.com/SupercycleLTDA/api.supercycle.com.br)
-
 ### Checkin
 
 [Repo](https://github.com/SupercycleLTDA/checkin.supercycle.com.br)
-
 
 ### Composer
 
