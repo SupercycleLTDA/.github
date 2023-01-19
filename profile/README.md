@@ -12,6 +12,18 @@ Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
 **Enjoy!**  <br>
 *The Supercycle Team* 💪🏼
 
+
+
+````
+ For the impacient:
+ 
+ Nova Idea    -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas 
+ Nova Q&A     -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a 
+ Nova Opinião -> https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls
+
+````
+
+
 ## Junte-se à conversa
 
 Como queremos que todos vocês expressem o que é mais útil para vocês como Coach na Supercycle, precisamos de um
