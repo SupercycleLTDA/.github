@@ -16,6 +16,10 @@ Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
  Nova Idea  👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas">Aqui</a> 
  Nova Q&A   👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a">Aqui</a> 
  Nova Poll  👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls">Aqui</a>
+ 
+ Discussões 👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions">Aqui</a>
+ Stories    👉🏼  <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/projects/1">Aqui</a>
+
 </pre>
 
 ## Junte-se à conversa
@@ -24,7 +28,7 @@ Como queremos que todos vocês expressem o que é mais útil para vocês como Co
 lugar central onde reunimos todas as ideias e pontos de vista, para que possamos discuti-los e entender o que
 pode fazer para melhorar o software.
 
-### Quando você tem uma ótima ideia 💡
+### 💚 Quando você tem uma ótima ideia 💡
 
 Para poder entender quais ideias são as boas, precisamos olhar para todas elas.
 
@@ -42,11 +46,10 @@ Quando temos certeza de que faz sentido adicionar a ideia ao software, criamos a
 Leia mais sobre o que é uma "Story" [aqui](story.md)
 
 Se você tem uma ideia de como melhorar a vida das pessoas que se juntam ao Supercycle, 
-tanto para treinadores quanto para pilotos, pode escrevê-la aqui 
-👉🏼[Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
+tanto para Coaches quanto para Riders, pode escrevê-la aqui 
+👉🏼 [Nova ideia](https://github.com/orgs/SupercycleLTDA/discussions/new?category=ideas)
 
-
-### Quando há algo que você não sabe 🙋🏽
+### 💚 Quando há algo que você não sabe 🙋🏽
 
 É muito importante que tenhamos o hábito de perguntar quando não sabemos ou não entendemos algo.
 
@@ -56,34 +59,57 @@ por que e como melhorar as coisas.
 É uma parte importante da cultura, todas as perguntas são permitidas.
 
 Se você tiver uma pergunta, pode iniciar uma Q&A (Question and Answer - Pergunta e Resposta) 
-👉🏼[Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
+👉🏼 [Nova Q&A](https://github.com/orgs/SupercycleLTDA/discussions/new?category=q-a)
 
 Portanto, mantenha essas perguntas chegando! 
 
-### Quando você quer saber o que pensamos 🧠
+### 💚 Quando você quer saber o que pensamos 🧠
 
 Como em toda democracia bem governada também permitimos a votação de temas.
 
 Às vezes é útil ou necessário entender como o grupo pensa sobre algo ou tomar uma decisão difícil.
 
+Portanto, se houver um tópico para o qual você deseja uma contagem de votos, vá em frente e crie uma Poll aqui
+👉🏼 [Nova Poll](https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls)
+
+### 💚 Quando você quer pular 🔍
+
+Se você quiser navegar pelas conversas para ver onde pode adicionar algo, você pode navegar pela lista completa aqui
+👉🏼 [Discussões](https://github.com/orgs/SupercycleLTDA/discussions)
+
+#### 🚀 Vamos fazer essas ideias fluírem e levar a Supercycle a alturas únicas!  🚀
+
+---
+# O que acontece com toda essa conversa?
+
+É importante saber o que fazemos com todas as contribuições que recebemos de ideias, perguntas, 
+votos e discussões resultantes.
+
+Quando temos certeza de que faz sentido adicionar a ideia ao software, criamos uma "User Story" com base na ideia.
+
+Essa User Story é usada para definir exatamente o que precisamos fazer para atingir o objetivo que a Story descreve.
+
+É por isso que uma Story segue um formato padrão na forma como é escrita:
+
+* Quem conta a Story (Perspectiva/Pessoa)
+* O que é desejado (Funcionalidade/Necessidade)
+* Por que isso é útil (Razão/Finalidade)
+
+Exemplo:
+
+Como Coach, quero poder mudar a cor das luzes no estúdio para poder influenciar melhor o ambiente do Ride diretamente.
+
+* Perspectiva: O Coach
+* Funcionalidade: Altere a cor das luzes do Studio
+* Motivo: Para melhor influenciar o ambiente do Ride
+
+Uma vez que decidimos que uma ideia se torna uma Story, ela será adicionada à lista de Stories aqui 👉🏼[User Stories](https://github.com/orgs/SupercycleLTDA/projects/1)
+
+A partir daí, decidiremos qual Story será incluída em uma iteração de engenharia, o que é uma iteração você pode ler a seguir. 
+
+## Iteration (Iteração)
 
 
-
-https://github.com/orgs/SupercycleLTDA/discussions/new?category=polls
-
-
-#### something
-
-
-
-
-https://github.com/orgs/SupercycleLTDA/discussions
-
-#### 📚 *Stories*
-
-All stories are gathered and processed in the [Supercycle Project](https://github.com/orgs/SupercycleLTDA/projects/1)
-
-## Iteration
 
 - All coaches are invited to the repositories and the Projects' story list
 - Everyone can ask their questions, follow discussions and vote for each story
@@ -93,7 +119,15 @@ All stories are gathered and processed in the [Supercycle Project](https://githu
 
 #### 💬 *Discussion*
 
-https://github.com/orgs/SupercycleLTDA/discussions
+
+
+### something
+
+
+#### 📚 *Stories*
+
+All stories are gathered and processed in the [Supercycle Project](https://github.com/orgs/SupercycleLTDA/projects/1)
+
 
 #### 📱 *Apps*
 
