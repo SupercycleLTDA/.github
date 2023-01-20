@@ -201,7 +201,7 @@ Deployment: [Stage](https://ride-stage.supercycle.com.br) | [Live](https://ride.
 **Description**<br>
 This App assists the Coaches in hosting their Rides<br><br>
 Source Code: [Repository](https://github.com/SupercycleLTDA/spotlight.supercycle.com.br)<br>
-Deployment: [Stage]() | [Live]()
+Deployment: @todo
 
 ##
 
