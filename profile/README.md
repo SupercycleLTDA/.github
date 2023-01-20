@@ -81,7 +81,7 @@ Se você quiser navegar pelas conversas para ver onde pode adicionar algo, você
 
 #### 🚀 Vamos fazer essas ideias fluírem e levar a Supercycle a alturas únicas!  🚀
 
----
+##
 
 # O que acontece com toda essa conversa?
 
@@ -134,7 +134,7 @@ E essas iterações continuam indefinidamente.
 
 Em outras palavras, se continuarmos iterando por tempo suficiente, tudo ficará perfeito! 😁
 
----
+##
 
 # 📱 *Apps*
 
@@ -149,7 +149,7 @@ The App that takes care of the biometric checkin of the Riders.<br><br>
 Source Code: [Repository](https://github.com/SupercycleLTDA/checkin.supercycle.com.br)<br>
 Deployment: [Stage](https://checkin-stage.supercycle.com.br/) | [Live](https://checkin.supercycle.com.br/)
 
----
+##
 
 ### Name: Composer
 
@@ -158,7 +158,7 @@ The App that allows us to create and store exercise blocks we can use in the Spo
 Source Code: [Repository](https://github.com/SupercycleLTDA/composer.supercycle.com.br)<br>
 Deployment: @todo
 
----
+##
 
 ### Name: Discover
 
@@ -167,7 +167,7 @@ The App that shows appealing info of the current and future Rides at the Studio.
 Source Code: [Repository](https://github.com/SupercycleLTDA/discover.supercycle.com.br)<br>
 Deployment: @todo
 
----
+##
 
 ### Name: Faces
 
@@ -176,7 +176,7 @@ The App that takes care of the picture of the Rider which is used in the Biometr
 Source Code: [Repository](https://github.com/SupercycleLTDA/faces.supercycle.com.br)<br>
 Deployment: N/A (Internal only)
 
----
+##
 
 ### Name: Hub
 
@@ -185,7 +185,7 @@ The App we use to do the Administration of the Ride platform<br><br>
 Source Code: [Repository](https://github.com/SupercycleLTDA/hub.supercycle.com.br)<br>
 Deployment: @todo
 
----
+##
 
 ### Name: Ride
 
@@ -194,7 +194,7 @@ The App the Riders and Coaches use to plan their Rides!<br><br>
 Source Code: [Repository](https://github.com/SupercycleLTDA/ride.supercycle.com.br)<br>
 Deployment: [Stage](https://ride-stage.supercycle.com.br) | [Live](https://ride.supercycle.com.br)
 
----
+##
 
 ### Name: Spotlight
 
@@ -203,7 +203,7 @@ This App assists the Coaches in hosting their Rides<br><br>
 Source Code: [Repository](https://github.com/SupercycleLTDA/spotlight.supercycle.com.br)<br>
 Deployment: [Stage]() | [Live]()
 
----
+##
 
 ### Name: www
 
