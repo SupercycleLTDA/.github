@@ -11,7 +11,7 @@ Os canais disponíveis são:
 - Instagram
 - Facebook
 - YouTube
-- Lista de reprodução do Spotify
+- Spotify Playlist
 - Tik tok
 
 Somente quando você preencher um valor o link ficará visível para os Riders. 
