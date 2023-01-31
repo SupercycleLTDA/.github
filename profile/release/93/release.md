@@ -1,5 +1,5 @@
 # #93 - Como Coach, quero poder adicionar meus canais de mídia social ao meu perfil para aumentar o alcance de meus Riders
-# 📸
+# 📸 😎
 Você pode adicionar seus links de mídia social na página de perfil. Clique no ícone do perfil no menu para ir até lá.
 
 <img src="Screenshot0.png" width="50" title="Edit">
@@ -31,6 +31,7 @@ Você só precisa preencher o "handle" do perfil. Exemplos:
    
    Spotify url : https://open.spotify.com/playlist/7tHA1hHsjEuRqj6hDlVwLL
    Apenas adicionar : 7tHA1hHsjEuRqj6hDlVwLL
+   (Atenção!🚨 Playlist apenas)
    
    Tik Tok url : https://www.tiktok.com/@supercyclebrasil
    Apenas adicionar : @supercyclebrasil
