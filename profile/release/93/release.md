@@ -1,7 +1,5 @@
-# #93 
-
-### Como Coach, quero poder adicionar meus canais de mídia social ao meu perfil para aumentar o alcance de meus Riders
-#
+# #93 - Como Coach, quero poder adicionar meus canais de mídia social ao meu perfil para aumentar o alcance de meus Riders
+# 📸
 Você pode adicionar seus links de mídia social na página de perfil. Clique no ícone do perfil no menu para ir até lá.
 
 <img src="Screenshot0.png" width="50" title="Edit">
