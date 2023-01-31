@@ -20,10 +20,10 @@ Você só precisa preencher o "handle" do perfil. Exemplos:
 ```
    (Veja as screenshots abaixo)
    
-   Instagram url : https://www.instagram.com/supercyclebrasil/ 
+   Instagram url : https://www.instagram.com/supercyclebrasil/
    Apenas adicionar : supercyclebrasil
    
-   Facebook url : https://www.facebook.com/supercyclebrasil 
+   Facebook url : https://www.facebook.com/supercyclebrasil
    Apenas adicionar : supercyclebrasil
    
    Youtube url : https://www.youtube.com/@supercyclebrasil
