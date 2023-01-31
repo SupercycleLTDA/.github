@@ -20,7 +20,7 @@ Os links abaixo irão levá-lo ao Supercycle Megaverse rapidamente 🚀
  💬 <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/discussions">Discussões</a>
  📚 <a target="_blank" href="https://github.com/orgs/SupercycleLTDA/projects/1">Stories</a>
 
- 🚀 <a href="./release/index.md">Releases</a>
+ 🚀 <a href="/profile/release/index.md">Releases</a>
   
 </pre>
 
