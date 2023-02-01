@@ -1,4 +1,4 @@
-# #115 - Como Coach, quero poder transferir meu Ride para outro Coach quando não puder Coach o Ride que planejei <br>
+# #115 - Como Coach, quero poder transferir meu Ride para outro Coach quando eu não puder coaching o Ride que planejei <br>
 # 📥 📤
 # #125 - Como Coach, quero poder ver os Rides planejados de outros Coaches para poder ver quem está antes/depois de mim
 # 📋 🔍
