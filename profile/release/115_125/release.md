@@ -43,7 +43,7 @@ maneira de usar isso para chamar a atenção de Riders em potencial.
 Neste exemplo seria usado para chamar a atenção de outros Coaches.
 
 ```
-  Observe no exemplo o passeio que Groot planejou para sexta fev 3, 06:00
+  Observe no exemplo o Ride que Groot planejou para sexta fev 3, 06:00
   e como ele fica indisponível pela primeira vez e se torna disponível na 
   lista quando transferível
 ```
