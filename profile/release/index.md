@@ -12,3 +12,8 @@
 #### February 2nd 2023
 
 [#46](/profile/release/46/release.md) - Como Rider, quero poder subscrever um serviço de notificação quando um Ride estiver cheio, para que eu possa ser notificado quando um Rider cancelar e um Spot
+
+#### February 7th 2023
+
+[#85](/profile/release/85/release.md) - Como Coach, quero ter uma visão geral dos Rides que fiz para entender quanto dinheiro ganhei
+
