@@ -4,12 +4,13 @@
 
 ##
 
+Um Coach pode selecionar uma data de início e término que retornará todas as Rides Coached naquele período.
 
+Um resumo é criado como a primeira página e nas páginas subseqüentes os detalhes do Ride são adicionados.
 
-
+O PDF é renderizado em um leitor de PDF totalmente funcional com recursos como download, etc.
 
 <a href="ride-rewards.pdf">Example PDF</a>
-
 
 <br>
 <table>
