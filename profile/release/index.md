@@ -17,3 +17,6 @@
 
 [#85](/profile/release/85/release.md) - Como Coach, quero ter uma visão geral dos Rides que fiz para entender quanto dinheiro ganhei
 
+#### March 7th 2023
+
+[#122](/profile/release/122/release.md) Como Coach, quero poder editar (cortar, mover) minha foto de perfil carregada para ter mais controle sobre sua aparência
